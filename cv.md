@@ -21,15 +21,19 @@
 * willingness to learn and develop
 
 **Education Background**:
+
 09.2021 – until now Ivan Franko National University of Lviv
 Studies Computer science, Maths
+
 09.2019 – 09.2020 „Small Science Academy”
 - learned (HTML, CSS, Javascript)
 - experienced sharing website in the Internet
 - public speaking skills 
+
 09.2014 – 12.2019 „English4u”
 - learned English language and it`s culture
 - public speaking skills
+
 09.2011 – 01.2020 Gymnasium “Prestige” in Lviv, Specialized in English language
 
 **Language skills**:
